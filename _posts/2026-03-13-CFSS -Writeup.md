@@ -36,6 +36,7 @@ I was tasked to perform various capture the flag challenges by simulating attack
 ### Challenge 2: CTFlearn Challenge 109.
 **Don't Bump Your Head(er)**
 * **Description:** Try to bypass my security measure on this site! http://165.227.106.113/header.php
+
 * **Steps:**
     1. I opened the link: http://165.227.106.113/header.php and **“Sorry, it seems as if your user agent is not correct, in order to access this website. The one you supplied is: “Mozilla/5.0 (X11;Linux x86_64; rv 109.0) Gecko/20100101 Firefox/115.0”** was displayed.
     ![cfss 7](/images/cfss/cfss7.1.png)
@@ -51,6 +52,7 @@ I was tasked to perform various capture the flag challenges by simulating attack
 ### Challenge 3: Defend the web challenge.
 **Where am I?!**
 * **Description:** The challenge displays a single input field to enter the correct password.
+
 * **Steps:**
     1. I first submitted a random password and it displayed invalid login details.
     ![cfss 11](/images/cfss/cfss11.png)
@@ -68,6 +70,7 @@ I was tasked to perform various capture the flag challenges by simulating attack
 ### Challenge 4: Picoctf challenge 262.
 **CVE-XXXX-XXXX**
 * **Description:** Find the first recorded Windows Print Spooler RCE vulnerability from 2021.
+
 * **Steps:**
     1. I opened my browser and searched the CVE that was the first recorded remote execution in 2021 in the windows print spooler service.
     2. I got the following response: PrintNightmare (CVE-2021-3452) from: https://blog.qualys.com/vulnerabilities-threat-research/2021/07/07-microsoft-windows-print-spooler-rce-vulnerability-printnightmare-cve-2021-34527 as shown in the image below.
@@ -80,6 +83,7 @@ I was tasked to perform various capture the flag challenges by simulating attack
 ### Challenge 5: Picoctf challenge 109
 **It is my Birthday**
 * **Description:** Upload two files that have the same MD5 hash but are different.
+
 * **Steps:**
     1. I first opened the link http://mercury.picoctf.net:57247/ and it displayed a page that requests for two upload.
     ![cfss 18](/images/cfss/cfss19.png)
@@ -96,6 +100,7 @@ I was tasked to perform various capture the flag challenges by simulating attack
 ### Challenge 6: PicoCTF challenge 4
 **Where are the robots**
 * **Description:** Can you find the flag hidden on the website?
+
 * **Steps:**
     1. I accessed the given URL in browser and “Welcome Where are the robots?” was displayed.
     ![cfss 22](/images/cfss/cfss23.png)
