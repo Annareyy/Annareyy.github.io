@@ -9,6 +9,7 @@ categories: CTF
 # PRACTICAL WALKTHROUGH OF THE CHALLENGES I DID.
 
 ## PRACTICAL CHALLENGES
+
 ### Introduction
 I was tasked to perform various capture the flag challenges by simulating attacks,identifying vulnerabilities and exploiting them. The report gives detailed steps that I performed and completed in order to gain root access and acquire ctf flags.
 
