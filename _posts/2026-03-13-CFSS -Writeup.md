@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "CFSS Report"
+title: "CFSS CTF REPORT"
 date: 2026-03-12
 author: Anne
 categories: CTF
 tags: [web-security, forensics, cryptography, ctflearn, picoctf, burp-suite, headers, md5-collision]
+
 ---
 
-# PRACTICAL WALKTHROUGH OF THE CHALLENGES I DID.
+# WALKTHROUGHS OF THE CHALLENGES I DID.
+---
 
-## PRACTICAL CHALLENGES
-
-### Introduction
-I was tasked to perform various capture the flag challenges by simulating attacks,identifying vulnerabilities and exploiting them. The report gives detailed steps that I performed and completed in order to gain root access and acquire ctf flags.
+## Introduction
+I was tasked to perform various capture the flag challenges by simulating attacks,identifying vulnerabilities and exploiting them. The report gives detailed steps that I performed and completed in order to acquire flags.
 
 ### Challenge 1: ctflearn challenge 114.
 **POST Practice.**

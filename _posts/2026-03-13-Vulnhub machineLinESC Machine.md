@@ -3,7 +3,7 @@ layout: post
 title: "LinESC Machine"
 author: "Anne"
 date: 2026-03-13
-categories: [machines]
+categories: [Vulnhub Machines]
 tags: [linux, enumeration, privilege-escalation, penetration-testing]
 ---
 
