@@ -2,7 +2,6 @@
 layout: post
 title: "CFSS CTF REPORT"
 date: 2026-03-12
-author: Anne
 categories: CTF
 tags: [web-security, forensics, cryptography, ctflearn, picoctf, burp-suite, headers, md5-collision]
 

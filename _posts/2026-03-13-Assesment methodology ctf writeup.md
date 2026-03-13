@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "ASSESMENT METHODOLOGIES CTF"
-author: "Anne"
 date: 2026-03-13
 categories: CTF
 tags: [nmap, gobuster, httrack, wordpress, web-recon]

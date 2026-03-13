@@ -32,24 +32,20 @@ twitter:
   username: twitter_username # change to your Twitter username
 
 linkedin:
-  username: Anne Ragu# change to your Twitter username
+  username: anne-ragu # change to your Twitter username
 
-author:
-  name: "Anne"
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Anne
-  email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://www.linkedin.com/in/anne-ragu
+    - https://twitter.com/username 
     - https://github.com/Annareyy # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/anne-ragu
 
 # Site Verification Settings
 webmaster_verifications:
@@ -231,3 +227,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jekyll-seo-tag
