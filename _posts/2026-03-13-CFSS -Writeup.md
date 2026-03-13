@@ -65,7 +65,6 @@ I was tasked to perform various capture the flag challenges by simulating attack
     5. The request revealed the password: `2e993e738d`
     ![cfss 15](/images/cfss/cfss15.png)
 
----
 
 ### Challenge 4: Picoctf challenge 262.
 **CVE-XXXX-XXXX**
@@ -78,7 +77,6 @@ I was tasked to perform various capture the flag challenges by simulating attack
 * **Flag:** `picoCTF{CVE-2021-34527}` (PrintNightmare).
 ![cfss 17](/images/cfss/cfss18.png)
 
----
 
 ### Challenge 5: Picoctf challenge 109
 **It is my Birthday**
@@ -95,7 +93,6 @@ I was tasked to perform various capture the flag challenges by simulating attack
 * **Flag:** `picoCTF(c0ngr4ts_u_r_invit3d_aad886b9)`.
 ![cfss 21](/images/cfss/cfss22.png)
 
----
 
 ### Challenge 6: PicoCTF challenge 4
 **Where are the robots**
