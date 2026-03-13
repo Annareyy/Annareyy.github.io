@@ -139,7 +139,7 @@ The code revealed that the program was designed to spawn a shell (`/bin/sh`) usi
 
 ## Exploiting SUDO Permissions
 
-Next, I examined the `SUDO` configurations for the `muhammad` user. By running `sudo -l`, I identified several commands that could be executed with root privileges without requiring a password (`NOPASSWD`).
+Next, I examined the `SUDO` configurations for the `muhammad` user. By running `sudo -l`, I identified several commands that could be executed with root privileges without requiring a password(`NOPASSWD`).
 
 `└─$ sudo -l`
 ![Linesc 23](/images/Linesc/linesc.png)
