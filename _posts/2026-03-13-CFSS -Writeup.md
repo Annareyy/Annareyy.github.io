@@ -33,7 +33,7 @@ I was tasked to perform various capture the flag challenges by simulating attack
     6. I sent the request after modifying it, and the response revealed our flag :{p0st_d4t4_4ll_d4y}
     ![cfss 6](/images/cfss/cfss6.png)
 
-### Challenge 2: CTFlearn Challenge 109
+### Challenge 2: CTFlearn Challenge 109.
 **Don't Bump Your Head(er)**
 * **Description:** Try to bypass my security measure on this site! http://165.227.106.113/header.php
 * **Steps:**
@@ -48,7 +48,7 @@ I was tasked to perform various capture the flag challenges by simulating attack
     5. **Flag:** `{did_this_m3ss_with_your_h34d}`.
     ![cfss 10](/images/cfss/cfss10.png)
 
-### Challenge 3: Defend the web challenge
+### Challenge 3: Defend the web challenge.
 **Where am I?!**
 * **Description:** The challenge displays a single input field to enter the correct password.
 * **Steps:**
@@ -65,7 +65,7 @@ I was tasked to perform various capture the flag challenges by simulating attack
 
 ---
 
-### Challenge 4: Picoctf challenge 262
+### Challenge 4: Picoctf challenge 262.
 **CVE-XXXX-XXXX**
 * **Description:** Find the first recorded Windows Print Spooler RCE vulnerability from 2021.
 * **Steps:**
