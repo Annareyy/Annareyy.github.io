@@ -89,7 +89,7 @@ the-same-md5-hash-value that has two message files with an md5 collision.
 ![cfss 20](/images/cfss/cfss20.png)
 3. Uploaded two different PDF files with the same MD5 hash to trigger a collision.Note: files must be in pdf format.
 ![cfss 21](/images/cfss/cfss21.png)
-* **Flag:** `picoCTF(c0ngr4ts_u_r_invit3d_aad886b9)`[cite: 85].
+* **Flag:** `picoCTF(c0ngr4ts_u_r_invit3d_aad886b9)`.
 ![cfss 22](/images/cfss/cfss22.png)
 
 ### Challenge 6: PicoCTF Challenge 4
