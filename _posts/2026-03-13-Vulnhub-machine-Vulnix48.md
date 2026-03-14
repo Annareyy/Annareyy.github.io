@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VULNIX MACHINE 48"
+title: "VULNIX MACHINE"
 date: 2026-03-13
 categories: [Vulnhub Machines]
 tags: [vulnhub, linux, enumeration, privilege-escalation, penetration-testing]
