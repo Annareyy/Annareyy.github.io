@@ -26,10 +26,10 @@ I first performed an **nmap** scan to identify any open ports.
 
 
 **Ports identified:**
-*   **22/tcp**: open ssh OpenSSH 8.2p1[cite: 3]
-*   **80/tcp**: filtered http[cite: 3]
-*   **8338/tcp**: filtered unknown[cite: 3]
-*   **55555/tcp**: open unknown[cite: 3]
+*   **22/tcp**: open ssh OpenSSH 8.2p1
+*   **80/tcp**: filtered http
+*   **8338/tcp**: filtered unknown
+*   **55555/tcp**: open unknown
 
 ---
 
