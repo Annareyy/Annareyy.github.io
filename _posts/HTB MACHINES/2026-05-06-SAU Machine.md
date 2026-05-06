@@ -7,7 +7,12 @@ tags: [CVE-2023–27163, Linux, RCE]
 image: /images/sau/banner.png
 ---
 
-For this specific machine the questions also acted as a guide to obtain the flags.So i'll be answering the tasks while exploiting the machines vulnerabilities to gain access.
+# Sau Machine Overview
+
+*Sau* is an easy-rated Linux machine on Hack The Box that involves exploiting a Server-Side Request Forgery (SSRF) in the Request-Baskets application to reach a filtered internal service. Once the internal service is exposed, an unauthenticated command injection vulnerability is used to gain initial access, followed by a local privilege escalation via a systemctl misconfiguration.
+
+
+*For this specific machine the questions also acted as a guide to obtain the flags.So i'll be answering the tasks while exploiting the machines vulnerabilities to gain access.*
 
 # Steps to gain access to the machine
 
